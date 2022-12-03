@@ -1,0 +1,28 @@
+{
+    "my_degrees": [
+        {
+            "software development" : {
+                "school" : "Boston University",
+                "program name" : "Software Development",
+                "program type" : "Master oF Science (MS)",
+                "year conferred" : 2023
+            }
+        },
+        {
+            "business data analytics" : {
+                "school" : "Arizona State University",
+                "program name" : "Business Data Analytics",
+                "program type" : "Bachelor oF Science (BS)",
+                "year conferred" : 2020
+            }
+        },
+        {
+            "marketing" : {
+                "school" : "Arizona State University",
+                "program name" : "Marketing (Digital and Integrated Marketing Communications)",
+                "program type" : "Bachelor oF Science (BS)",
+                "year conferred" : 2020
+            }
+        }
+    ]
+}
