@@ -1,0 +1,69 @@
+:root {
+    --main-color: ivory;
+    --secondary-color: black;
+    --tertiary-color: red;
+    
+}
+/*body and head styling*/
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: beige;
+}
+div.button {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    color: var(--secondary-color);
+    text-decoration: underline var(--tertiary-color);
+}
+/*image styling*/
+img {
+    display: block;
+    margin: auto;
+}
+/*table styling*/
+#degree_table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+#degree_table td, th {
+    border: 3pt solid var(--secondary-color);
+    padding: 8px;
+}
+#degree_table tr:hover {
+    background-color: var(--tertiary-color);
+    color: var(--main-color)
+}
+#degree_table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: var(--tertiary-color);
+    color: var(--main-color);
+}
+/*button styling*/
+div.button {
+    text-align: center;
+}
+#button {
+    font-size: 14pt;
+    font-weight: bold;
+    font-style: oblique;
+    margin: 1em;
+    padding: 0.5em;
+    border: 3pt solid var(--secondary-color);
+    background-color: var(--tertiary-color);
+    color: var(--main-color);
+}
+#button:hover {
+    border: 3pt solid var(--tertiary-color);
+    background-color: var(--secondary-color);
+    color: var(--main-color);
+}
+#button:disabled {
+    background-color: gray;
+    color: var(--secondary-color);
+}

@@ -2,7 +2,7 @@
     {
         "school" : "Boston University",
         "programName" : "Software Development",
-        "programType" : "Master oF Science (MS)",
+        "programType" : "Master of Science (MS)",
         "yearConferred" : 2023
     
     },
@@ -10,14 +10,14 @@
         
         "school" : "Arizona State University",
         "programName" : "Business Data Analytics",
-        "programType" : "Bachelor oF Science (BS)",
+        "programType" : "Bachelor of Science (BS)",
         "yearConferred" : 2020
     
     },
     {
         "school" : "Arizona State University",
         "programName" : "Marketing (Digital and Integrated Marketing Communications)",
-        "programType" : "Bachelor oF Science (BS)",
+        "programType" : "Bachelor of Science (BS)",
         "yearConferred" : 2020
     }
 ]
